@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36058142707",
+    "firebase_url": "https://deco32firebasecloudmessaging.firebaseio.com",
+    "project_id": "deco32firebasecloudmessaging",
+    "storage_bucket": "deco32firebasecloudmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36058142707:android:fc89e35434e104f95fe486",
+        "android_client_info": {
+          "package_name": "com.medialink.deco32firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36058142707-k17i8hmvpqaa7qlr4nr1cuuo014evuub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medialink.deco32firebasecloudmessaging",
+            "certificate_hash": "87651af5ad5c3a01868835bea7edabebfb237fed"
+          }
+        },
+        {
+          "client_id": "36058142707-0evdj8ra5fljfspn5k1l2jtd0fvvqasd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVnu-04BC-d8b1nu4hl38bMZhvksNbH4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36058142707-0evdj8ra5fljfspn5k1l2jtd0fvvqasd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
